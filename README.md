@@ -6,4 +6,4 @@
 - Run the script:
 > ./server_stats.sh
 
-- project-url : https://github.com/Darshan-30/Server-Performance-Stats.git
+- project-url : https://roadmap.sh/projects/server-stats
