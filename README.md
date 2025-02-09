@@ -6,4 +6,3 @@
 - Run the script:
 > ./server_stats.sh
 
-- project-url : https://roadmap.sh/projects/server-stats
